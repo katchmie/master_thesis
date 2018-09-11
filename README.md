@@ -1,2 +1,2 @@
 # master_thesis
-Repository with maser thesis
+Repository with paper version of my master thesis
